@@ -1,7 +1,7 @@
 ## Node.js
 
 ### What is Node.js
-[Nodejs](http://www.nodejs.com)
+[Nodejs](https://nodejs.org/en)
 
 Nodejs is Popular JavaScript runtime enviroment. which you can use to run your javascript code in backend or in server-side by leveraging this you have the power to also use javascript on backend.
 
