@@ -76,6 +76,10 @@ writeFileSync('/file/file.txt','hello, how are you what`s up', {flag, 'a'})  //w
 
  ```
 
+ ### Event Loop in Node.js 💀
+
+ 
+
 
  
 
